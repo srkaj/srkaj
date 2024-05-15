@@ -1,5 +1,5 @@
 Hi, I’m @srkaj, A.k.a. Rasmus Kaj.
-I'm working in _Team LjudCore_.
+I'm working for [Sveriges Radio](https://sverigesradio.se/) (also [on github](https://github.com/sverigesradio/)) in _Team LjudCore_.
 
 My private account is [@kaj](https://github.com/kaj), and I have a blog / home site at <https://rasmus.krats.se>.
 
